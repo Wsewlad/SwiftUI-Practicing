@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "firstName": "Vladyslav",
+        "lastName": "Fil",
+        "avatarImageName": "Vladyslav_Fil",
+        "coverImageName": "Vladyslav_Fil_cover",
+        "currentPosition": "Junior iOS developer",
+        "currentWorkplace": "You are launched",
+        "education": "UNIT Factory",
+        "showAboveEducationInMyIntro": true,
+        "country": "Ukraine",
+        "about": "Professional and personal development and learning.",
+        
+        "experience": [
+            {
+                "id": 1,
+                "companyName": "Trinetix",
+                "companyLogoName": "trinetix",
+                "city": "Kyiv",
+                "position": "RPA Developer",
+                "duration": "Aug 2018 – Present 2 yrs 3 mos",
+                "description": "- Develop and implement bots (UiPath)\n- Creating reusable processes and extensions for the RPA\n- Writing scripts on PowerShell, VB.NET"
+            },
+            {
+                "id": 2,
+                "companyName": "UNIT Factory",
+                "companyLogoName": "unit",
+                "city": "Kyiv",
+                "position": "Student",
+                "duration": "Jul 2017 – May 2020 2 yrs 11 mos",
+                "description": "- Projects using Swift, PHP, JS, mySQL, HTML, CSS, C;\n- Creating own library on C language (working with pointers, ASCII, strings, numbers, memory etc.)."
+            },
+        ]
+    }
+]
